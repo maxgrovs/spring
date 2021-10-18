@@ -10,6 +10,10 @@ private String name;
         this.name = name;
     }
 
+    public Person() {
+
+    }
+
     public int getId() {
         return id;
     }
